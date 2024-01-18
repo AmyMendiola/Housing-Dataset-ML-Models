@@ -1,6 +1,7 @@
 # Housing-Dataset-ML-Models
-Dataset: House Sales in King County, USA: https://www.kaggle.com/datasets/harlfoxem/housesalesprediction
-Tools: Python, Jupyter Notebook, Visual Studios, Kaggle
+*Dataset:* House Sales in King County, USA: https://www.kaggle.com/datasets/harlfoxem/housesalesprediction
+
+*Tools:* Python, Jupyter Notebook, Visual Studios, Kaggle
 # Problem Explanation
 Housing price prediction is a powerful tool to help homeowners, investors, and businesses with impactful financial decisions. The goal of this project is to accurately curate machine learning models to predict the housing sales prices of homes in the dataset and to understand the results of the experiment and the reasoning for their performance. The dataset that was selected contains the selling price of houses in King County, Washington along with 20 other features of the home. These features include a unique id for the home, sale date, number of bedrooms, number of bathrooms, square footage of the home, square footage of the land, number of floors, waterfront boolean, view score, condition score, grade score, square footage of above ground floors, square footage of the basement, year built, year renovated, zip code, latitude, longitude, square footage of the living space of the 15 closest neighbors, and the square footage of the land of the 15 closest neighbors. This dataset will be modeled with many different machine learning algorithms to analyze their performance at predicting the homes sales price. These models include linear regression, k-nearest neighbors regression, neural network regression, single decision tree, bagged trees, and boosted trees.
 # Evaluation Criteria
